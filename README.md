@@ -1,4 +1,7 @@
+This is David from China, who is a big fan of Cloud Native ecosystem, such as Kubernetes, Golang. Currently learning ebpf and associated projects like Cilium. Read [my blog](https://davidlovezoe.club/) or [follow @nevermosby on Twitter](https://twitter.com/nevermosby). This README is deeply inspired by [simonw](https://github.com/simonw/simonw/blob/main/README.md) .
+
 ### Hi there 👋
+
 
 <!--
 **nevermosby/nevermosby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
