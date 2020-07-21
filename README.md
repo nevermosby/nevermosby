@@ -6,21 +6,18 @@ This is David from China, who is a big fan of Cloud Native ecosystem, such as Ku
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [datasette-plugin-demos 0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/nevermosby/nevermosby/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
-* [Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more](http://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/) - 2020-07-17
 <!-- blog ends -->
 More on [davidlovezoe.club](https://davidlovezoe.club/)
 </td><td valign="top" width="33%">
 
 ### Beyond Tech, More Life
 <!-- BTML starts -->
-* [Password hashing in Python with pbkdf2](https://github.com/simonw/til/blob/master/python/password-hashing-with-pbkdf2.md) - 2020-07-14
 <!-- BTML ends -->
 More on [btml.davidlovezoe.club](https://btml.davidlovezoe.club/)
 </td></tr></table>
